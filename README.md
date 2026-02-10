@@ -1,19 +1,16 @@
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:111111,30:1F1F1F,60:F97316,100:FBBF24"/>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=F8F8F2&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:282A36,50:343746,100:44475A"/>
 </div>
 
 <h2 align="left">Hi 👋! My name is Victor Figueirêdo and I'm a Fullstack Developer!</h2>
 
 ###
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcodedev&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorcodedev&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorcodedev&theme=dracula)
 
-###
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcodedev&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorcodedev&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorcodedev&theme=dracula) |
+| :-: | :-: | :-: |
 
-###
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=victorcodedev&theme=dracula&border_radius=1.5&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorcodedev&theme=dracula) | [![GitHub Streak](https://streak-stats.demolab.com?user=victorcodedev&theme=dracula&hide_border=true&border_radius=1.5&exclude_days=Sun%2CSat)](https://git.io/streak-stats) |
+| :-: | :-: |
 
 ###
 
@@ -74,5 +71,5 @@
 ###
 
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:111111,30:1F1F1F,60:F97316,100:FBBF24"/>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=F8F8F2&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:282A36,50:343746,100:44475A"/>
 </div>
