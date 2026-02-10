@@ -5,13 +5,15 @@
 <h2 align="left">Hi 👋! My name is Victor Figueirêdo and I'm a Fullstack Developer!</h2>
 
 ###
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcodedev&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorcodedev&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorcodedev&theme=dracula)
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorcodedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcodedev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=victorcodedev&theme=dark&border_radius=1.5&exclude_days=Sun%2CSat&card_width=855)](https://git.io/streak-stats)
+###
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=victorcodedev&theme=dracula&border_radius=1.5&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ###
 
