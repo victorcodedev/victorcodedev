@@ -2,7 +2,9 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=F8F8F2&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:282A36,50:343746,100:44475A"/>
 </div>
 
-<h2 align="left">Hi 👋! My name is Victor Figueirêdo and I'm a Fullstack Developer!</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Victor+Figueir%C3%AAdo!" />
+</p>
 
 ###
 
