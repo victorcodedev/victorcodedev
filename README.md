@@ -2,9 +2,13 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=F8F8F2&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:282A36,50:343746,100:44475A"/>
 </div>
 
+<br/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Victor+Figueir%C3%AAdo!" />
 </p>
+
+<br/>
 
 ###
 
@@ -15,6 +19,8 @@
 | :-: | :-: |
 
 ###
+
+___
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo"  />
@@ -64,13 +70,19 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="38" alt="postman logo"  />
 </div>
 
-###
+___
 
-<br clear="both">
+<div align="center">
+
+  ![Static Badge](https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Fvictxrf%2F)
+  ![Static Badge](https://img.shields.io/badge/Linkedin-282A36?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictorfigueiredocode%2F)
+  ![Static Badge](https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=Gmail&logoColor=white)
+  
+</div>
+
+___
 
 <img src="https://raw.githubusercontent.com/victorcodedev/victorcodedev/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=F8F8F2&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:282A36,50:343746,100:44475A"/>
